@@ -1,2 +1,2 @@
-# cap-mybatis
-mybatis
+cupid-model-admin
+====

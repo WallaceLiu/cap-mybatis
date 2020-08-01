@@ -1,0 +1,10 @@
+logging:
+  file:
+    max-size: 100MB
+  path: /export/Logs/cap-mybatis
+  level:
+    com.jd: info
+    com.wangyin.schedule: error
+sys:
+  name: su
+  email: znsr@jd.com
